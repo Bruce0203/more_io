@@ -1,0 +1,13 @@
+[package]
+name = "more_io"
+version = "0.1.0"
+edition = "2021"
+author = "Bruce0203 <brucefreedy@gmail.com>"
+description = "Additional functions to read and write as primitive types"
+repository = "https://github.com/Bruce0203/more_io"
+license = "MIT"
+readme = "README.md"
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+]
